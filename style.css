@@ -1,0 +1,15 @@
+.about-content{
+    background-color: #CAE0BC;
+    border-radius: 20px;
+}
+
+footer p{
+    color: white;
+    text-align: center;
+}
+
+.projects-content{
+    display: flex;
+    justify-content: center;
+}
+
